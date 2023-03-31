@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Welcome to My Blog
+show-avatar: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm Thuc. Below is some information about me:
+- I'm a student of Information Technology at Ho Chi Minh City University of Education
+- My major: Computer Science - Blockchain
+- Hobbies: Algorithm, Game, Music
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+[LinkedIn Profile](https://www.linkedin.com/in/thucltt/)
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[Curriculum Vitae](https://www.dropbox.com/s/u46976fuwv2frvs/ThucLe_CV_2022.pdf?dl=0)
