@@ -12,4 +12,4 @@ I'm Thuc. Below is some information about me:
 
 [LinkedIn Profile](https://www.linkedin.com/in/thucltt/)
 
-[Curriculum Vitae](https://www.dropbox.com/s/u46976fuwv2frvs/ThucLe_CV_2022.pdf?dl=0)
+[Curriculum Vitae](https://www.dropbox.com/scl/fi/lbikgz2sef3ezqqroi0c6/ThucLe_CV_2023.pdf?rlkey=d1hox54t99dh7vehexp55uoc5&dl=0)
