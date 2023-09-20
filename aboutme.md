@@ -6,8 +6,8 @@ show-avatar: true
 ---
 
 I'm Thuc. Below is some information about me:
-- I'm a student of Information Technology at Ho Chi Minh City University of Education
-- My major: Computer Science - Blockchain
+- I graduated in Computer Science at Ho Chi Minh City University of Education
+- Research interests: Blockchain Fundamental, Applications of Blockchain, Applications of Deep Learning, Tech in Education.
 
 [LinkedIn Profile](https://www.linkedin.com/in/thucltt/)
 
