@@ -6,9 +6,9 @@ show-avatar: true
 ---
 
 I'm Thuc. Below is some information about me:
-- I graduated in Computer Science at Ho Chi Minh City University of Education
+- I'm a Master's Student in Computer Science at Ho Chi Minh City University of Education.
 - Research interests: Blockchain Fundamental, Applications of Blockchain, Applications of Deep Learning, Tech in Education.
 
 [LinkedIn Profile](https://www.linkedin.com/in/thucltt/)
 
-[Curriculum Vitae](https://www.dropbox.com/scl/fi/lbikgz2sef3ezqqroi0c6/ThucLe_CV_2023.pdf?rlkey=d1hox54t99dh7vehexp55uoc5&dl=0)
+[Curriculum Vitae](https://www.dropbox.com/scl/fi/sil0jn91zeyn64xwfrtrk/Thuc-T.-T.-Le_CV.pdf?rlkey=rnb0c326az12bgwvnjyw84tsl&dl=0)
