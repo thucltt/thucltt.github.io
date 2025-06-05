@@ -258,10 +258,6 @@ Source code of SC [here](https://github.com/thucle00/retrieval_system_student_ac
   <br><i>System use in practice</i>
 </p>
 
-## **Demo**
-
-Smart contract deploys on blockchain Polygon testnet. Details of smart contract [here](https://mumbai.polygonscan.com/address/0x1cc75dc9f7874f4738741dc6ea8eb7f965d95429).
-
 ## **Acknowledgment**
 
 - I would like to sincerely thank [Dr. Hai Tran](https://scholar.google.com/citations?user=kHZvlTkAAAAJ&hl=vi&oi=sra) for helping me step by step complete this topic, this is also my Graduate thesis.
