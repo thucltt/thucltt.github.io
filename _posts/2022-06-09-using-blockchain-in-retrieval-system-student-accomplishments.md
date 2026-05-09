@@ -11,11 +11,6 @@ share-img: /assets/img/220906_cover.jpg
 
 *[Discussions on [Twitter](https://twitter.com/thucltt/status/1535577318974169088), [LinkedIn](https://www.linkedin.com/posts/thucltt_using-blockchain-in-retrieval-system-student-activity-6941343286443794432-fbxF), and [Comments under the post](https://thucltt.com/2022-06-09-using-blockchain-in-retrieval-system-student-accomplishments/)]*
 
-*[Updated:*
-
-- Source code of Smart contract [here](#smart-contract-source-code).
-
-*]*
 
 Today, I'm writing about "**Using blockchain in retrieval system student accomplishments**"
 
