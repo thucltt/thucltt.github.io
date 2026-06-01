@@ -1,0 +1,113 @@
+cv:
+  name: Thuc Le
+  label: Data Scientist
+  email: contact@thucltt.com
+  location: Ho Chi Minh City, Vietnam
+  image: ""
+  summary: Master's degree holder with experiences in machine learning and algorithmic problem solving. In addition to a strong academic research background, I focus on turning complex theoretical ideas into practical, scalable solutions. My problem-solving skills have been honed through high-level competitions such as the Vietnam National Olympiad in Informatics for Students and the ICPC. I am driven to leverage advanced research and development to tackle impactful industry challenges and enhance the efficiency of large-scale systems.
+
+  social_networks:
+    - network: GitHub
+      username: lucasle123
+    - network: LinkedIn
+      username: thucltt
+    - network: X
+      username: thucltt
+
+  sections:
+    Experience:
+      - company: FPT Software
+        position: Data Scientist
+        location: Ho Chi Minh City
+        start_date: 2025-12
+        end_date: present
+        highlights:
+          - Optimized scheduling systems by formulating and solving complex constraint-based problems, improving efficiency and resource allocation.
+          - Developed AI/LLM-driven solutions for automated transaction recording, enhancing accuracy and reducing manual processing time.
+          - Designed, implemented, and evaluated AI-based models for real-world applications, delivering practical and scalable solutions.
+
+      - company: Vimet Corp
+        position: Digital Transformation Assistant (Part time)
+        location: Ho Chi Minh City
+        start_date: 2024-07
+        end_date: 2025-07
+        highlights:
+          - Assisted in designing digital transformation projects.
+          - Research and implement to integrate AI.
+
+      - company: Eton Corporation
+        position: Data Scientist
+        location: Ho Chi Minh City
+        start_date: 2022-09
+        end_date: 2023-08
+        highlights:
+          - Research and implement algorithm for Capacitated Vehicle Routing Problem adapt to conditions at the company. Optimize around 10%-15% cost of transportation.
+          - Research method to enhance Optical Character Recognition (OCR) results.
+
+      - company: Ho Chi Minh City University of Education
+        position: Undergraduate Teaching Assistant
+        location: Ho Chi Minh City
+        start_date: 2021-01
+        end_date: 2022-05
+        highlights:
+          - "Teaching assistant for courses: Data Structures and Algorithms, Object-oriented Programming (OOP)."
+          - Teaching assistant and design material, homework for courses, participate in creating exams and review students.
+
+      - company: Harvard Business School
+        position: Research Assistant
+        location: Remote
+        start_date: 2021-01
+        end_date: 2021-09
+        highlights:
+          - Aggregate and review the research data.
+          - OCR document from low-quality scan.
+          - Extract information and get insight from data using NLP techniques.
+
+    Education:
+      - institution: Ho Chi Minh City University of Education
+        area: Computer Science
+        studyType: Master
+        start_date: 2023
+        end_date: 2025
+
+      - institution: Ho Chi Minh City University of Education
+        area: Computer Science
+        studyType: Bachelor
+        start_date: 2018
+        end_date: 2022
+
+    Research:
+      - name: Smart Contract Vulnerabilities Detection
+        summary: "Master thesis · 2025"
+        highlights:
+          - Design a pipeline using the LLM model to generate high-quality data for enhancing the dataset.
+          - Design a model with a handle capability for a highly imbalanced dataset.
+
+      - name: "Integrating Smart Contracts into University Registration for Data Integrity and Transparency"
+        summary: "Dream Science Journal of Cyber Security (DS-CYS) · 2025"
+        highlights:
+          - Developed blockchain-based solution for university registration, ensuring data security and integrity with smart contracts.
+          - Designed logic for registration processes and tested blockchain integration for transparency and reliability.
+
+      - name: Using Blockchain in Retrieval System Student Accomplishments
+        summary: "Graduate thesis · 2022"
+        highlights:
+          - Using smart contract to store certificates on the blockchain.
+          - Design logic for processing blockchain data.
+
+    Awards:
+      - title: Vietnam National Olympiad in Informatics for Students
+        date: 2020
+        awarder: Third Prize – Student Specialized informatics
+
+      - title: ICPC Vietnam Southern Provincial Programming Contest
+        date: 2020
+        awarder: Third Prize
+
+      - title: ICPC Vietnam National Programming Contest
+        date: 2020
+        awarder: Consolation Prize
+
+      - title: ICPC Asia Regional Contest
+        date: 2020
+        awarder: Honor Award for Participation
