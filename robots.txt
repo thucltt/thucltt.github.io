@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://thucltt.com/demo_new_site/sitemap.xml
+Sitemap: https://thucltt.com/sitemap.xml
