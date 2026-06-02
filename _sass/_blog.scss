@@ -2,6 +2,8 @@
  * Blog post and listing styles
  ******************************************************************************/
 
+@use "variables" as v;
+
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
@@ -102,8 +104,10 @@
 
 .post {
   .post-content img {
-    max-width: 100%;
+    max-width: min(100%, v.$max-content-width);
     height: auto;
+    display: block;
+    margin: 0 auto;
   }
 
   .post-meta {
