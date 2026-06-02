@@ -18,7 +18,6 @@ The contest ended about half a year ago. At this time, the number of people infe
 
 ![](/assets/img/240122_img1.png)
 
-
 And finally, thank you so much for my team!
 
 #Fun fact, the only girl on my team said: "Why my T-shirt is pink?". Maybe this girl doesn't like pink =)))

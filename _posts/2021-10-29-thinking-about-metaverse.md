@@ -18,5 +18,6 @@ Và nếu Metaverse xuất hiện thật sự thì chúng ta cũng sẽ phải t
 Tóm lại nếu Metaverse đi đúng hướng thì nó sẽ rất có ích. Là dân làm về công nghệ mình thấy Metaverse thật sự là một cuộc cách mạng, hãy để thời gian trả lời cho cuộc cách mạng này. Biết đâu mình cũng được góp phần xây dựng nó thì sao hihihihi (Rớt môn tới nơi còn mơ). Phải đi học bài roài, dạo này học dốt quá phải đi online với team để hỏi bài đây .... hix...hix...<br>
 
 Link các ảnh được sử dụng trong bài:<br>
+
 - https://artlabs.ai/wp-content/uploads/2021/09/CROPPED-scaled.jpg<br>
 - https://sohanews.sohacdn.com/thumb_w/660/160588918557773824/2021/10/21/photo1634789107090-16347891071891981134820.png

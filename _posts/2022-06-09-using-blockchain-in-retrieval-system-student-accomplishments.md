@@ -6,8 +6,7 @@ date: 2022-06-09
 tags: [en, blockchain]
 ---
 
-*[Discussions on [Twitter](https://twitter.com/thucltt/status/1535577318974169088), [LinkedIn](https://www.linkedin.com/posts/thucltt_using-blockchain-in-retrieval-system-student-activity-6941343286443794432-fbxF), and [Comments under the post](https://thucltt.com/2022-06-09-using-blockchain-in-retrieval-system-student-accomplishments/)]*
-
+_[Discussions on [Twitter](https://twitter.com/thucltt/status/1535577318974169088), [LinkedIn](https://www.linkedin.com/posts/thucltt_using-blockchain-in-retrieval-system-student-activity-6941343286443794432-fbxF), and [Comments under the post](https://thucltt.com/2022-06-09-using-blockchain-in-retrieval-system-student-accomplishments/)]_
 
 Today, I'm writing about "**Using blockchain in retrieval system student accomplishments**"
 
@@ -19,7 +18,7 @@ In this topic, I define accomplishments include: **Kudo card and Certificate**.
 
 ### **Kudo card**
 
-This is a card and on this include: name of the sender, name of receiver and important part of the card is compliments. We can use this to praise our friends or thank our lecturer for help. ***Kudo card can create by all people***. Kudo card has ***spiritual value*** and based on this we can have comprehensive reviews about the individual contributions of students in learning.
+This is a card and on this include: name of the sender, name of receiver and important part of the card is compliments. We can use this to praise our friends or thank our lecturer for help. **_Kudo card can create by all people_**. Kudo card has **_spiritual value_** and based on this we can have comprehensive reviews about the individual contributions of students in learning.
 
 <p align="center">
   <img src="/assets/img/220906_kudo.png" alt="kudo_card"/>
@@ -28,7 +27,7 @@ This is a card and on this include: name of the sender, name of receiver and imp
 
 ### **Certificate**
 
-Maybe the certificate is close to everyone. A certificate is an official document that states that the information on it is true ([Cambridge dictionary](https://dictionary.cambridge.org/dictionary/english/certificate)). The certificate was issued when you achieve achievements in competition, participate in an extracurricular activity, etc. Unlike kudo card, the certificate was ***created by an organization*** and has ***legal value***.
+Maybe the certificate is close to everyone. A certificate is an official document that states that the information on it is true ([Cambridge dictionary](https://dictionary.cambridge.org/dictionary/english/certificate)). The certificate was issued when you achieve achievements in competition, participate in an extracurricular activity, etc. Unlike kudo card, the certificate was **_created by an organization_** and has **_legal value_**.
 
 <p align="center">
   <img src="/assets/img/220906_cert.png" alt="kudo_card"/>
@@ -126,7 +125,7 @@ In this function, we have some notes:
 
 I write this function because in some cases, we can miscommunicate on the kudo card, and with this function, we can mark a token as invalid. Note that, it doesn't delete data on the blockchain, it only marks a token as invalid, this action didn't violate the decentralized nature of the blockchain.
 
-Since anyone can create the kudo card, to prevent bad behavior  from affecting recognition, only those who create the token or the owner of the token can delete and processing can be done if the token is created not more than 1 day.
+Since anyone can create the kudo card, to prevent bad behavior from affecting recognition, only those who create the token or the owner of the token can delete and processing can be done if the token is created not more than 1 day.
 
 #### **Validate function**
 
@@ -256,7 +255,7 @@ Source code of SC [here](https://github.com/thucle00/retrieval_system_student_ac
 
 - I would like to thank my friend Thao Pham for her suggestions on this topic.
 
-*Thanks for reading and look forward to receiving your comments and discussions!*
+_Thanks for reading and look forward to receiving your comments and discussions!_
 
 <br>
 <br>
