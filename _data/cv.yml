@@ -16,6 +16,14 @@ cv:
 
   sections:
     Experience:
+      - company: Ho Chi Minh City University of Education
+        position: Visiting Lecturer
+        location: Ho Chi Minh City
+        start_date: 2026
+        end_date: present
+        highlights:
+          - "Teaching course: Object-oriented Programming (OOP)."
+
       - company: FPT Software
         position: Data Scientist
         location: Ho Chi Minh City

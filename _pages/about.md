@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Data Scientist at <a href='https://fptsoftware.com'>FPT Software</a>. HCMC, Vietnam.
+subtitle: Data Scientist at <a href='https://fptsoftware.com'>FPT Software</a>. Visiting Lecturer. HCMC, Vietnam.
 
 profile:
   align: right
@@ -23,6 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Thuc (Lucas), a Data Scientist at FPT Software.
+Hi! I'm Thuc (Lucas), a Data Scientist at FPT Software and a Visiting Lecturer.
 
 My research interests are LLM, Tech in Education, Optimization, and Cryptography.
