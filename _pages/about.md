@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Data Scientist at <a href='https://fptsoftware.com'>FPT Software</a>. Visiting Lecturer. HCMC, Vietnam.
+subtitle: Data Scientist and Researcher, Visiting Lecturer.
 
 profile:
   align: right
