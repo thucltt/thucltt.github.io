@@ -104,18 +104,18 @@ cv:
           - Design logic for processing blockchain data.
 
     Awards:
-      - title: Vietnam National Olympiad in Informatics for Students
+      - name: Vietnam National Olympiad in Informatics for Students
         date: 2020
-        awarder: Third Prize – Student Specialized informatics
+        summary: Third Prize – Student Specialized informatics
 
-      - title: ICPC Vietnam Southern Provincial Programming Contest
+      - name: ICPC Vietnam Southern Provincial Programming Contest
         date: 2020
-        awarder: Third Prize
+        summary: Third Prize
 
-      - title: ICPC Vietnam National Programming Contest
+      - name: ICPC Vietnam National Programming Contest
         date: 2020
-        awarder: Consolation Prize
+        summary: Consolation Prize
 
-      - title: ICPC Asia Regional Contest
+      - name: ICPC Asia Regional Contest
         date: 2020
-        awarder: Honor Award for Participation
+        summary: Honor Award for Participation
