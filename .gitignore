@@ -12,5 +12,6 @@ assets/libs/
 assets/rendercv/rendercv_output/*.typ
 Gemfile.lock
 node_modules/
-vendordocker-compose.override.yml
+vendor
+docker-compose.override.yml
 _config_dev.yml
