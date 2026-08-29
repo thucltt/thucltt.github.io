@@ -1,15 +1,9 @@
+# Disabled: assets/pdf/cv.pdf (the PDF linked from the site) is managed
+# manually and is not produced by this workflow's output path. Automatic
+# triggers are removed to stop CI failures caused by RenderCV's unpinned
+# upstream breaking changes. Run manually via workflow_dispatch if needed.
 name: Render a CV
 on:
-  push:
-    branches:
-      - main
-      - master
-    paths:
-      - "_data/cv.yml"
-      - "assets/rendercv/design.yaml"
-      - "assets/rendercv/locale.yaml"
-      - "assets/rendercv/settings.yaml"
-  workflow_call:
   workflow_dispatch:
 permissions:
   contents: write
