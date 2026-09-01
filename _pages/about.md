@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Data Scientist and Researcher, Visiting Lecturer.
+subtitle: Data Scientist, Researcher, Visiting Lecturer.
 
 profile:
   align: right
