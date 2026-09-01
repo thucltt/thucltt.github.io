@@ -19,7 +19,7 @@ cv:
       - company: Ho Chi Minh City University of Education
         position: Visiting Lecturer
         location: Ho Chi Minh City
-        start_date: 2026
+        start_date: 2026-09
         end_date: present
         highlights:
           - "Instructor for the Object-oriented Programming (OOP) course."
