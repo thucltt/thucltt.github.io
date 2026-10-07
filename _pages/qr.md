@@ -3,7 +3,7 @@ layout: contact-card
 permalink: /qr/
 title: Thuc Le (Lucas)
 subtitle: Data Scientist, Researcher, Visiting Lecturer
-photo: /assets/img/prof_pic.png
+photo: /assets/img/prof_pic-480.webp
 sections:
   - name: FPT Software
     role: Data Scientist at FPT Software
