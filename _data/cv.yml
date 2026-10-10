@@ -16,21 +16,23 @@ cv:
 
   sections:
     Experience:
-      - company: Ho Chi Minh City University of Education
-        position: Visiting Lecturer
-        location: Ho Chi Minh City
-        start_date: 2026-09
-        end_date: present
-
       - company: FPT Software
         position: Data Scientist
         location: Ho Chi Minh City
         start_date: 2025-12
         end_date: present
         highlights:
-          - Optimized scheduling systems by formulating and solving complex constraint-based problems, improving efficiency and resource allocation.
-          - Developed AI/LLM-driven solutions for automated transaction recording, enhancing accuracy and reducing manual processing time.
-          - Designed, implemented, and evaluated AI-based models for real-world applications, delivering practical and scalable solutions.
+          - Formulated constraint-based models to optimize scheduling systems and resource allocation
+          - Built AI/LLM solutions for automated transaction recording, reducing manual processing time
+          - Designed and deployed scalable AI models for real-world application
+
+      - company: Ho Chi Minh City University of Education
+        position: Visiting Lecturer
+        location: Ho Chi Minh City
+        start_date: 2026-09
+        end_date: present
+        highlights:
+          - Visiting lecturer at the Faculty of Information Technology.
 
       - company: Vimet Corp
         position: Digital Transformation Assistant
@@ -38,8 +40,8 @@ cv:
         start_date: 2024-07
         end_date: 2025-07
         highlights:
-          - Assisted in designing digital transformation projects.
-          - Research and implement to integrate AI.
+          - Assisted in designing digital transformation projects
+          - Research and implement to integrate AI
 
       - company: Eton Corporation
         position: Data Scientist
@@ -47,8 +49,8 @@ cv:
         start_date: 2022-09
         end_date: 2023-08
         highlights:
-          - Research and implement algorithm for Capacitated Vehicle Routing Problem adapt to conditions at the company. Optimize around 10%-15% cost of transportation.
-          - Research method to enhance Optical Character Recognition (OCR) results.
+          - Research and implement algorithm for Capacitated Vehicle Routing Problem adapt to conditions at the company. Optimize around 10%-15% cost of transportation
+          - Research method to enhance Optical Character Recognition (OCR) results
 
       - company: Ho Chi Minh City University of Education
         position: Undergraduate Teaching Assistant
@@ -56,8 +58,8 @@ cv:
         start_date: 2021-01
         end_date: 2022-05
         highlights:
-          - "Teaching assistant for courses: Data Structures and Algorithms, Object-oriented Programming (OOP)."
-          - Teaching assistant and design material, homework for courses, participate in creating exams and review students.
+          - "Teaching assistant: Data Structures & Algorithms, Object-oriented Programming (OOP)"
+          - Designed coursework, assignments, and exams while evaluating student performance
 
       - company: Harvard Business School
         position: Research Assistant
@@ -65,9 +67,8 @@ cv:
         start_date: 2021-01
         end_date: 2021-09
         highlights:
-          - Aggregate and review the research data.
-          - OCR document from low-quality scan.
-          - Extract information and get insight from data using NLP techniques.
+          - Processed and structured low-quality scanned documents using OCR and NLP techniques to extract key insights
+          - Aggregated and reviewed research data to support analytical decision-making
 
     Education:
       - institution: Ho Chi Minh City University of Education
@@ -84,10 +85,10 @@ cv:
 
     Research:
       - name: "SHAP-Based Fraud Explanation with Small Language Models via Knowledge Distillation"
-        summary: "EAI FPT International Conference on Intelligent Systems and Advanced Technologies (EAI FISAT) · 2026 · Accepted"
+        summary: "EAI FISAT 2026 (Accepted) · 2026"
         highlights:
-          - Distilled an LLM teacher's chain-of-thought explanations of SHAP attributions into small language models (Phi-4-mini-instruct, Qwen3-1.7B) via LoRA for on-premise fraud explanation.
-          - Introduced Faithfulness, a metric for SHAP feature citation accuracy, and a context-aware verdict extractor that corrects a systematic bias in keyword-based label recovery.
+          - Distilled LLM fraud explanations into on-premise small language models via LoRA
+          - Proposed a SHAP Faithfulness metric; students achieved ≥0.978 faithfulness
 
       - name: "Integrating Smart Contracts into University Registration for Data Integrity and Transparency"
         summary: "Dream Science Journal of Cyber Security (DS-CYS) · 2025"
