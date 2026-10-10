@@ -83,23 +83,17 @@ cv:
         end_date: 2022
 
     Research:
-      - name: Smart Contract Vulnerabilities Detection
-        summary: "Master thesis · 2025"
+      - name: "SHAP-Based Fraud Explanation with Small Language Models via Knowledge Distillation"
+        summary: "EAI FPT International Conference on Intelligent Systems and Advanced Technologies (EAI FISAT) · 2026 · Accepted"
         highlights:
-          - Design a pipeline using the LLM model to generate high-quality data for enhancing the dataset.
-          - Design a model with a handle capability for a highly imbalanced dataset.
+          - Distilled an LLM teacher's chain-of-thought explanations of SHAP attributions into small language models (Phi-4-mini-instruct, Qwen3-1.7B) via LoRA for on-premise fraud explanation.
+          - Introduced Faithfulness, a metric for SHAP feature citation accuracy, and a context-aware verdict extractor that corrects a systematic bias in keyword-based label recovery.
 
       - name: "Integrating Smart Contracts into University Registration for Data Integrity and Transparency"
         summary: "Dream Science Journal of Cyber Security (DS-CYS) · 2025"
         highlights:
           - Developed blockchain-based solution for university registration, ensuring data security and integrity with smart contracts.
           - Designed logic for registration processes and tested blockchain integration for transparency and reliability.
-
-      - name: Using Blockchain in Retrieval System Student Accomplishments
-        summary: "Graduate thesis · 2022"
-        highlights:
-          - Using smart contract to store certificates on the blockchain.
-          - Design logic for processing blockchain data.
 
     Awards:
       - name: Vietnam National Olympiad in Informatics for Students
