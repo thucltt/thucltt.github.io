@@ -203,7 +203,6 @@ plugins:
   - jekyll-archives-v2
   - jekyll-cache-bust
   - jekyll-email-protect
-  - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
@@ -269,7 +268,7 @@ display_categories: [] # these categories will be displayed on the front page of
 
 scholar:
   last_name: [Le]
-  first_name: [Thuc, T.]
+  first_name: [Thuc, T., Tri Thuc Tran]
 
   style: apa
   locale: en
