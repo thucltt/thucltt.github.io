@@ -5,4 +5,4 @@ email: contact@thucltt.com
 github_username: lucasle123
 linkedin_username: thucltt
 x_username: LucasLe456
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # disabled: feed.xml is turned off (jekyll-feed removed from plugins)
